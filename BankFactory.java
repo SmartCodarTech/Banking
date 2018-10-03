@@ -15,7 +15,7 @@
     	{
     		return new StanbicBank();
     	}
-    	else if(bank.equalsIgnoreCase("ECOBANK")||bank.equalsIgnoreCase("Ecobank"))
+    	else if(bank.equalsIgnoreCase("ECOBANK")||bank.equalsIgnoreCase("Eco bank"))
     	{
     		return new ECOBANK();
     	}
